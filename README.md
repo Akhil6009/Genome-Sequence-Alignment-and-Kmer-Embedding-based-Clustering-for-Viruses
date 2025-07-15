@@ -1,0 +1,2 @@
+# Genome-Sequence-Alignment-and-Kmer-Embedding-based-Clustering-for-Viruses
+A hybrid approach for viral genome analysis combining sequence alignment and k-mer embedding. Uses alignment for evolutionary similarity and k-mer-based vectorization for fast, scalable clustering. Supports various clustering algorithms and visualizations for viral classification, strain detection, and comparative genomics.
